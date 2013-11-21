@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.106|SINOMA.zip
-版本1.106进行了如下更新：
+updateme|1.107|SINOMA.zip
+版本1.107进行了如下更新：
 【Google地球地质图】完成初步功能；
 【菜单】修正多项命令，整合部分选项；
 【Google地球模块】增加一个地质点转入Google Earth上；
