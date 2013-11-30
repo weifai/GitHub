@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.109|SINOMA.zip
-版本1.109进行了如下更新：
+updateme|1.110|SINOMA.zip
+版本1.110进行了如下更新：
 【荒料率】对荒料率模块进行重新计算；
 【Google地球地质图】完成初步功能；
 【菜单】修正多项命令，整合部分选项；
