@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.133|SINOMA.zip
-版本1.133进行了如下更新：
+updateme|1.134|SINOMA.zip
+版本1.134进行了如下更新：
 【批量展探槽】增加一个批量展探槽的模块；
 
 
