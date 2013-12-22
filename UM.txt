@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.135|SINOMA.zip
-版本1.135进行了如下更新：
+updateme|1.136|SINOMA.zip
+版本1.136进行了如下更新：
 【批量展地质点】增加一个进度条的现实功能；
 【批量展探槽】增加一个批量展探槽的模块；
 
