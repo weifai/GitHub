@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.142|SINOMA.zip
-版本1.142进行了如下更新：
+updateme|1.143|SINOMA.zip
+版本1.143进行了如下更新：
 【荒料率】增加一个生成可选窗口；
 
 
