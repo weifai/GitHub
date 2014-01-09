@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.146|SINOMA.zip
-版本1.146进行了如下更新：
+updateme|1.147|SINOMA.zip
+版本1.147进行了如下更新：
 【符号和注记】增加一个土层，便于隐藏编号，用来绘制手图；
 
 
