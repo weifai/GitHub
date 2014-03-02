@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.161|SINOMA.zip
-版本1.161进行了如下更新：
+updateme|1.162|SINOMA.zip
+版本1.162进行了如下更新：
 【展剖面】修正一个bug；
 【矿区名称】增加了依据矿区进行展点、展槽、展各种符号；
 
