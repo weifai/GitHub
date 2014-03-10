@@ -1,9 +1,10 @@
 app|version|file
-updateme|1.163|SINOMA.zip
-版本1.163进行了如下更新：
+updateme|1.164|SINOMA.zip
+版本1.164进行了如下更新：
+【浅井绘制】增加一个浅井绘制模块；
 【展剖面】修正一个bug；
 
-2014.3.5
+2014.3.10
 
 
 
