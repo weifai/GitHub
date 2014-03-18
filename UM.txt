@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.167|SINOMA.zip
-版本1.167进行了如下更新：
+updateme|1.168|SINOMA.zip
+版本1.168进行了如下更新：
 【浅井绘制】修正了几个bug；
 【不规则缩放】增加一个不规则缩放的模块；
 【读取Google地球kml文件】增加一个读取Google地球kml文件的模块；
