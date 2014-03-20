@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.171|SINOMA.zip
-版本1.171进行了如下更新：
+updateme|1.172|SINOMA.zip
+版本1.172进行了如下更新：
 【浅井绘制】修正了几个bug；
 【荒料率】修正与WPS的兼容问题；
 
