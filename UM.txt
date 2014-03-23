@@ -1,6 +1,7 @@
 app|version|file
-updateme|1.173|SINOMA.zip
-版本1.173进行了如下更新：
+updateme|1.174|SINOMA.zip
+版本1.174进行了如下更新：
+【浅井】修正一个bug；
 【展点】修正展点程序崩溃的一个问题；
 
 2014.3.22
