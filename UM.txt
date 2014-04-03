@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.183|SINOMA.zip
-版本1.183进行了如下更新：
+updateme|1.184|SINOMA.zip
+版本1.184进行了如下更新：
 【荒料率】修正垂直模式下一个bug；
 【绘制花纹】增加所有的变质岩花纹；
 【荒料率】增加一个垂直方向的处理方法；
