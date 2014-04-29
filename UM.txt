@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.199|SINOMA.zip
-版本1.199进行了如下更新：
+updateme|1.200|SINOMA.zip
+版本1.200进行了如下更新：
 【荒料率】修正一个叠合图成图bug；
 【荒料率】修正一个填充图案bug；
 2014.4.29
