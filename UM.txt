@@ -1,10 +1,11 @@
 app|version|file
-updateme|1.205|SINOMA.zip
-版本1.205进行了如下更新：
+updateme|1.206|SINOMA.zip
+版本1.206进行了如下更新：
+【浅井矢量化】修正一个bug;
 【荒料率】更新了截取算法；
 
 
-2014.5.22
+2014.5.29
 
 
 
