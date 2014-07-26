@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.219|SINOMA.zip
-版本1.219进行了如下更新：
+updateme|1.220|SINOMA.zip
+版本1.220进行了如下更新：
 【柱状图交规院】对云南交通规划设计院要求的钻孔柱状图模块进行了很多优化；
 
 2014.7.24
