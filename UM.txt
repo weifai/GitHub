@@ -1,10 +1,10 @@
 app|version|file
-updateme|1.241|SINOMA.zip
+updateme|1.242|SINOMA.zip
 版本1.241进行了如下更新：
 【柱状图交规院】修正取样显示问题；
 【取样模块】增加一个取样数据模块；
 
-2014.8.20
+2014.8.24
 
 
 
