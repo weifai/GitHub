@@ -1,9 +1,9 @@
 app|version|file
-updateme|1.249|SINOMA.zip
-版本1.249进行了如下更新：
-【修改图号】修正批量修改图号的模块；
+updateme|1.250|SINOMA.zip
+版本1.250进行了如下更新：
+【交规院】修正几个bug；
 
-2014.9.12
+2014.10.15
 
 
 
