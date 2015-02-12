@@ -1,9 +1,10 @@
 app|version|file
-updateme|1.250|SINOMA.zip
-版本1.250进行了如下更新：
+updateme|1.251|SINOMA.zip
+版本1.251进行了如下更新：
+【google earth】修正线性问题；
 【交规院】修正几个bug；
 
-2014.10.15
+2015.2.12
 
 
 
