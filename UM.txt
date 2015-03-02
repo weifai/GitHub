@@ -1,10 +1,9 @@
 app|version|file
-updateme|1.251|SINOMA.zip
-版本1.251进行了如下更新：
-【google earth】修正线性问题；
-【交规院】修正几个bug；
+updateme|1.252|SINOMA.zip
+版本1.252进行了如下更新：
+【剖面线】修正了真厚度计算公式为负的问题；
 
-2015.2.12
+2015.3.2
 
 
 
