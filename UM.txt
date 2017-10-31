@@ -1,10 +1,10 @@
 app|version|file
-updateme|1.261|SINOMA.zip
-版本1.261进行了如下更新：
-【桥梁工点】修正部分问题；
+updateme|1.262|SINOMA.zip
+版本1.262进行了如下更新：
+【KEY】更新杨万勇CDKEY；
 
 
-2017.10.25
+2017.10.31
 
 
 
