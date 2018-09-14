@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.269|SINOMA.zip
-版本1.269进行了如下更新：
+updateme|1.270|SINOMA.zip
+版本1.270进行了如下更新：
 【纵断面图】解决自定义横向比例尺，自动缩A4图纸出错的问题(广电院郑工)；
 
 
