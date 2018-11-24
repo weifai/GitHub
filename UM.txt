@@ -1,6 +1,6 @@
 app|version|file
-updateme|1.276|SINOMA.zip
-版本1.276进行了如下更新：
+updateme|1.277|SINOMA.zip
+版本1.277进行了如下更新：
 【标题栏】增加一种中交格式。
 
 2018.11.24
